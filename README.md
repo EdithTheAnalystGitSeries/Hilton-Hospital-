@@ -3,6 +3,8 @@ A simple system to manage patients, doctors, and hospital rcords.
 
 
 ## Folder Structure 
+- public/pharmacy
+- public/billing
 - public/patients/ - sample patient records 
 - public/doctors/ - Doctor directory 
 - company-secret/ - private admin data, not tracked by git
