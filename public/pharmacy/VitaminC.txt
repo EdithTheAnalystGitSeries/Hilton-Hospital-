@@ -1,0 +1,3 @@
+Drug: Vitamin C
+Stock: 200
+Expiry Date: 20-10-2027
