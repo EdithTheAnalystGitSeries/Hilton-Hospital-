@@ -1,3 +1,4 @@
 Name; Dr. George 
 Department; Cardiology
 Linense; MD-001
+Shift: 24hrs
